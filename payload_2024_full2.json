@@ -1,0 +1,1782 @@
+{
+  "2024": {
+    "resumen_anual": {
+      "ytd": 13348475719.827002,
+      "mes_pico": "2024-02",
+      "mes_valle": "2024-03"
+    },
+    "ranking_anual": {
+      "sustancias_por_volumen": [
+        {
+          "sustancia": "OMEPRAZOL",
+          "volumen_total": 5120172248.375,
+          "impacto_total": 176855498.16649085,
+          "num_ordenes": 2693
+        },
+        {
+          "sustancia": "ATORVASTATINA",
+          "volumen_total": 1193083634.58,
+          "impacto_total": 45543295.03447146,
+          "num_ordenes": 768
+        },
+        {
+          "sustancia": "LANSOPRAZOL",
+          "volumen_total": 1043818019.05,
+          "impacto_total": 33893272.584075026,
+          "num_ordenes": 1263
+        },
+        {
+          "sustancia": "CANDESARTAN",
+          "volumen_total": 810719963.0,
+          "impacto_total": 15435112.091577208,
+          "num_ordenes": 491
+        },
+        {
+          "sustancia": "FLECAINIDA",
+          "volumen_total": 661716874.95,
+          "impacto_total": 26988625.016508725,
+          "num_ordenes": 568
+        }
+      ],
+      "sustancias_por_shap": [
+        {
+          "sustancia": "OMEPRAZOL",
+          "volumen_total": 5120172248.375,
+          "impacto_total": 176855498.16649085,
+          "num_ordenes": 2693
+        },
+        {
+          "sustancia": "ATORVASTATINA",
+          "volumen_total": 1193083634.58,
+          "impacto_total": 45543295.03447146,
+          "num_ordenes": 768
+        },
+        {
+          "sustancia": "VITAMINAS Y MINERALES",
+          "volumen_total": 593808554.34,
+          "impacto_total": 35138605.21043958,
+          "num_ordenes": 2166
+        },
+        {
+          "sustancia": "LANSOPRAZOL",
+          "volumen_total": 1043818019.05,
+          "impacto_total": 33893272.584075026,
+          "num_ordenes": 1263
+        },
+        {
+          "sustancia": "FLECAINIDA",
+          "volumen_total": 661716874.95,
+          "impacto_total": 26988625.016508725,
+          "num_ordenes": 568
+        }
+      ],
+      "lineas_por_volumen": [
+        {
+          "linea": "MC22",
+          "volumen_total": 1872662073.0,
+          "impacto_total": 65186074.041526735,
+          "num_ordenes": 168
+        },
+        {
+          "linea": "NA",
+          "volumen_total": 1342268055.952,
+          "impacto_total": 60786569.957263835,
+          "num_ordenes": 1837
+        },
+        {
+          "linea": "CO-06",
+          "volumen_total": 882909937.0,
+          "impacto_total": 30178799.152774233,
+          "num_ordenes": 356
+        },
+        {
+          "linea": "G3-03",
+          "volumen_total": 860568492.0,
+          "impacto_total": 30561723.649820235,
+          "num_ordenes": 68
+        },
+        {
+          "linea": "CO-09",
+          "volumen_total": 761799511.0,
+          "impacto_total": 24685096.91671413,
+          "num_ordenes": 339
+        }
+      ],
+      "lineas_por_shap": [
+        {
+          "linea": "MC22",
+          "volumen_total": 1872662073.0,
+          "impacto_total": 65186074.041526735,
+          "num_ordenes": 168
+        },
+        {
+          "linea": "NA",
+          "volumen_total": 1342268055.952,
+          "impacto_total": 60786569.957263835,
+          "num_ordenes": 1837
+        },
+        {
+          "linea": "BOT-5",
+          "volumen_total": 14632087.0,
+          "impacto_total": 52324766.32449293,
+          "num_ordenes": 905
+        },
+        {
+          "linea": "BL-T",
+          "volumen_total": 13099701.0,
+          "impacto_total": 33565450.395268925,
+          "num_ordenes": 805
+        },
+        {
+          "linea": "CO-11",
+          "volumen_total": 568594739.0,
+          "impacto_total": 32397966.224614214,
+          "num_ordenes": 485
+        }
+      ],
+      "presentaciones_por_volumen": [
+        {
+          "presentacion": "CAP 20 MG",
+          "volumen_total": 4404227764.0,
+          "impacto_total": 111979364.63234875,
+          "num_ordenes": 529
+        },
+        {
+          "presentacion": "COMP 10 MG",
+          "volumen_total": 705771760.0,
+          "impacto_total": 14562710.68572653,
+          "num_ordenes": 209
+        },
+        {
+          "presentacion": "CAP 30 MG",
+          "volumen_total": 662148488.0,
+          "impacto_total": 11151759.335055944,
+          "num_ordenes": 243
+        },
+        {
+          "presentacion": "COMP 20 MG",
+          "volumen_total": 588371386.0,
+          "impacto_total": 14551443.913061408,
+          "num_ordenes": 251
+        },
+        {
+          "presentacion": "COMP 40 MG",
+          "volumen_total": 490697174.0,
+          "impacto_total": 10913027.944844821,
+          "num_ordenes": 221
+        }
+      ],
+      "presentaciones_por_shap": [
+        {
+          "presentacion": "NO RELEVANTE",
+          "volumen_total": 413652699.97,
+          "impacto_total": 148899823.8821805,
+          "num_ordenes": 1531
+        },
+        {
+          "presentacion": "CAP 20 MG",
+          "volumen_total": 4404227764.0,
+          "impacto_total": 111979364.63234875,
+          "num_ordenes": 529
+        },
+        {
+          "presentacion": "PELLETS 20 MG",
+          "volumen_total": 1304485.375,
+          "impacto_total": 26929792.626083326,
+          "num_ordenes": 749
+        },
+        {
+          "presentacion": "COMP 50 MG / 1000 MG",
+          "volumen_total": 377674382.0,
+          "impacto_total": 18318798.19598606,
+          "num_ordenes": 391
+        },
+        {
+          "presentacion": "PELLETS 30 MG",
+          "volumen_total": 429651.25,
+          "impacto_total": 16924062.652253244,
+          "num_ordenes": 477
+        }
+      ]
+    },
+    "detalle_mensual": {
+      "2024-01": {
+        "volumen_total": 1122624718.9745,
+        "top_sustancias_por_volumen": [
+          {
+            "sustancia": "OMEPRAZOL",
+            "volumen_total": 489852215.2025,
+            "impacto_total": 16655176.794405846,
+            "num_ordenes": 243
+          },
+          {
+            "sustancia": "ATORVASTATINA",
+            "volumen_total": 124702827.0,
+            "impacto_total": 4740602.431936169,
+            "num_ordenes": 96
+          },
+          {
+            "sustancia": "CANDESARTAN",
+            "volumen_total": 92324910.0,
+            "impacto_total": 2214041.7866666825,
+            "num_ordenes": 42
+          },
+          {
+            "sustancia": "LANSOPRAZOL",
+            "volumen_total": 77133673.3,
+            "impacto_total": 2440280.617951961,
+            "num_ordenes": 99
+          },
+          {
+            "sustancia": "FLECAINIDA",
+            "volumen_total": 67777176.4,
+            "impacto_total": 2515753.5917977537,
+            "num_ordenes": 45
+          }
+        ],
+        "top_sustancias_por_shap": [
+          {
+            "sustancia": "OMEPRAZOL",
+            "volumen_total": 489852215.2025,
+            "impacto_total": 16655176.794405846,
+            "num_ordenes": 243
+          },
+          {
+            "sustancia": "ATORVASTATINA",
+            "volumen_total": 124702827.0,
+            "impacto_total": 4740602.431936169,
+            "num_ordenes": 96
+          },
+          {
+            "sustancia": "FLECAINIDA",
+            "volumen_total": 67777176.4,
+            "impacto_total": 2515753.5917977537,
+            "num_ordenes": 45
+          },
+          {
+            "sustancia": "LANSOPRAZOL",
+            "volumen_total": 77133673.3,
+            "impacto_total": 2440280.617951961,
+            "num_ordenes": 99
+          },
+          {
+            "sustancia": "VITAMINAS Y MINERALES",
+            "volumen_total": 42015573.6,
+            "impacto_total": 2294926.2300770176,
+            "num_ordenes": 170
+          }
+        ],
+        "top_lineas_por_volumen": [
+          {
+            "linea": "CO-06",
+            "volumen_total": 140266425.0,
+            "impacto_total": 4201992.129816732,
+            "num_ordenes": 37
+          },
+          {
+            "linea": "MC22",
+            "volumen_total": 134271345.0,
+            "impacto_total": 4620182.630550372,
+            "num_ordenes": 12
+          },
+          {
+            "linea": "MC21",
+            "volumen_total": 94514564.0,
+            "impacto_total": 2275760.910699788,
+            "num_ordenes": 23
+          },
+          {
+            "linea": "G3-03",
+            "volumen_total": 90244643.0,
+            "impacto_total": 3220515.20020595,
+            "num_ordenes": 7
+          },
+          {
+            "linea": "CO-10",
+            "volumen_total": 68614455.0,
+            "impacto_total": 2142932.0470948527,
+            "num_ordenes": 16
+          }
+        ],
+        "top_lineas_por_shap": [
+          {
+            "linea": "NA",
+            "volumen_total": 42222123.082,
+            "impacto_total": 5653138.249102841,
+            "num_ordenes": 150
+          },
+          {
+            "linea": "MC22",
+            "volumen_total": 134271345.0,
+            "impacto_total": 4620182.630550372,
+            "num_ordenes": 12
+          },
+          {
+            "linea": "CO-06",
+            "volumen_total": 140266425.0,
+            "impacto_total": 4201992.129816732,
+            "num_ordenes": 37
+          },
+          {
+            "linea": "BOT-5",
+            "volumen_total": 939411.0,
+            "impacto_total": 3901739.772200565,
+            "num_ordenes": 65
+          },
+          {
+            "linea": "BL-T",
+            "volumen_total": 1229166.0,
+            "impacto_total": 3660446.0852074753,
+            "num_ordenes": 86
+          }
+        ]
+      },
+      "2024-02": {
+        "volumen_total": 1233972509.6374998,
+        "top_sustancias_por_volumen": [
+          {
+            "sustancia": "OMEPRAZOL",
+            "volumen_total": 523031918.4075,
+            "impacto_total": 17572535.344883125,
+            "num_ordenes": 280
+          },
+          {
+            "sustancia": "ATORVASTATINA",
+            "volumen_total": 151161158.0,
+            "impacto_total": 5622773.197262563,
+            "num_ordenes": 81
+          },
+          {
+            "sustancia": "LANSOPRAZOL",
+            "volumen_total": 85184039.45,
+            "impacto_total": 2470723.4039015397,
+            "num_ordenes": 78
+          },
+          {
+            "sustancia": "FLECAINIDA",
+            "volumen_total": 80463039.15,
+            "impacto_total": 2996095.093108122,
+            "num_ordenes": 83
+          },
+          {
+            "sustancia": "CANDESARTAN",
+            "volumen_total": 79626300.0,
+            "impacto_total": 1708949.7845595903,
+            "num_ordenes": 74
+          }
+        ],
+        "top_sustancias_por_shap": [
+          {
+            "sustancia": "OMEPRAZOL",
+            "volumen_total": 523031918.4075,
+            "impacto_total": 17572535.344883125,
+            "num_ordenes": 280
+          },
+          {
+            "sustancia": "ATORVASTATINA",
+            "volumen_total": 151161158.0,
+            "impacto_total": 5622773.197262563,
+            "num_ordenes": 81
+          },
+          {
+            "sustancia": "FLECAINIDA",
+            "volumen_total": 80463039.15,
+            "impacto_total": 2996095.093108122,
+            "num_ordenes": 83
+          },
+          {
+            "sustancia": "VITAMINAS Y MINERALES",
+            "volumen_total": 44417453.64,
+            "impacto_total": 2681304.796421661,
+            "num_ordenes": 172
+          },
+          {
+            "sustancia": "LANSOPRAZOL",
+            "volumen_total": 85184039.45,
+            "impacto_total": 2470723.4039015397,
+            "num_ordenes": 78
+          }
+        ],
+        "top_lineas_por_volumen": [
+          {
+            "linea": "MC22",
+            "volumen_total": 178226583.0,
+            "impacto_total": 6202354.148299729,
+            "num_ordenes": 16
+          },
+          {
+            "linea": "NA",
+            "volumen_total": 167217735.75,
+            "impacto_total": 5040781.869498972,
+            "num_ordenes": 133
+          },
+          {
+            "linea": "CO-06",
+            "volumen_total": 146417339.0,
+            "impacto_total": 5007743.250480539,
+            "num_ordenes": 45
+          },
+          {
+            "linea": "CO-10",
+            "volumen_total": 88837375.0,
+            "impacto_total": 2844095.363952654,
+            "num_ordenes": 26
+          },
+          {
+            "linea": "G3-05",
+            "volumen_total": 84559058.0,
+            "impacto_total": 2784667.2938289307,
+            "num_ordenes": 14
+          }
+        ],
+        "top_lineas_por_shap": [
+          {
+            "linea": "MC22",
+            "volumen_total": 178226583.0,
+            "impacto_total": 6202354.148299729,
+            "num_ordenes": 16
+          },
+          {
+            "linea": "NA",
+            "volumen_total": 167217735.75,
+            "impacto_total": 5040781.869498972,
+            "num_ordenes": 133
+          },
+          {
+            "linea": "CO-06",
+            "volumen_total": 146417339.0,
+            "impacto_total": 5007743.250480539,
+            "num_ordenes": 45
+          },
+          {
+            "linea": "BOT-5",
+            "volumen_total": 1881815.0,
+            "impacto_total": 4558998.453186975,
+            "num_ordenes": 80
+          },
+          {
+            "linea": "CO-11",
+            "volumen_total": 24451770.0,
+            "impacto_total": 3486107.2473031883,
+            "num_ordenes": 44
+          }
+        ]
+      },
+      "2024-03": {
+        "volumen_total": 974927140.8505,
+        "top_sustancias_por_volumen": [
+          {
+            "sustancia": "OMEPRAZOL",
+            "volumen_total": 410330042.9625,
+            "impacto_total": 13605604.28920018,
+            "num_ordenes": 229
+          },
+          {
+            "sustancia": "LOSARTAN",
+            "volumen_total": 90980839.0,
+            "impacto_total": 2380932.6021411563,
+            "num_ordenes": 77
+          },
+          {
+            "sustancia": "LANSOPRAZOL",
+            "volumen_total": 71825129.55,
+            "impacto_total": 2379246.7162292823,
+            "num_ordenes": 99
+          },
+          {
+            "sustancia": "ATORVASTATINA",
+            "volumen_total": 71054826.0,
+            "impacto_total": 3133895.641088934,
+            "num_ordenes": 80
+          },
+          {
+            "sustancia": "ROSUVASTATINA",
+            "volumen_total": 49639548.0,
+            "impacto_total": 773235.8553045689,
+            "num_ordenes": 21
+          }
+        ],
+        "top_sustancias_por_shap": [
+          {
+            "sustancia": "OMEPRAZOL",
+            "volumen_total": 410330042.9625,
+            "impacto_total": 13605604.28920018,
+            "num_ordenes": 229
+          },
+          {
+            "sustancia": "ATORVASTATINA",
+            "volumen_total": 71054826.0,
+            "impacto_total": 3133895.641088934,
+            "num_ordenes": 80
+          },
+          {
+            "sustancia": "VITAMINAS Y MINERALES",
+            "volumen_total": 45330400.0,
+            "impacto_total": 2425253.801368947,
+            "num_ordenes": 154
+          },
+          {
+            "sustancia": "LOSARTAN",
+            "volumen_total": 90980839.0,
+            "impacto_total": 2380932.6021411563,
+            "num_ordenes": 77
+          },
+          {
+            "sustancia": "LANSOPRAZOL",
+            "volumen_total": 71825129.55,
+            "impacto_total": 2379246.7162292823,
+            "num_ordenes": 99
+          }
+        ],
+        "top_lineas_por_volumen": [
+          {
+            "linea": "MC22",
+            "volumen_total": 211760988.0,
+            "impacto_total": 7382963.959551616,
+            "num_ordenes": 19
+          },
+          {
+            "linea": "CO-09",
+            "volumen_total": 79032291.0,
+            "impacto_total": 3055740.06631417,
+            "num_ordenes": 53
+          },
+          {
+            "linea": "CO-08",
+            "volumen_total": 74792602.0,
+            "impacto_total": 1948520.2476780831,
+            "num_ordenes": 28
+          },
+          {
+            "linea": "CO-05",
+            "volumen_total": 65438731.0,
+            "impacto_total": 4089900.9111835035,
+            "num_ordenes": 64
+          },
+          {
+            "linea": "G3-05",
+            "volumen_total": 62333463.0,
+            "impacto_total": 1980511.4457984518,
+            "num_ordenes": 17
+          }
+        ],
+        "top_lineas_por_shap": [
+          {
+            "linea": "MC22",
+            "volumen_total": 211760988.0,
+            "impacto_total": 7382963.959551616,
+            "num_ordenes": 19
+          },
+          {
+            "linea": "NA",
+            "volumen_total": 56559617.008,
+            "impacto_total": 4787245.382638263,
+            "num_ordenes": 142
+          },
+          {
+            "linea": "CO-05",
+            "volumen_total": 65438731.0,
+            "impacto_total": 4089900.9111835035,
+            "num_ordenes": 64
+          },
+          {
+            "linea": "BOT-5",
+            "volumen_total": 1894346.0,
+            "impacto_total": 3802545.377241643,
+            "num_ordenes": 68
+          },
+          {
+            "linea": "CO-11",
+            "volumen_total": 33681779.0,
+            "impacto_total": 3399758.6333007333,
+            "num_ordenes": 43
+          }
+        ]
+      },
+      "2024-04": {
+        "volumen_total": 1209090955.6225,
+        "top_sustancias_por_volumen": [
+          {
+            "sustancia": "OMEPRAZOL",
+            "volumen_total": 497241247.9325,
+            "impacto_total": 17702166.638704766,
+            "num_ordenes": 239
+          },
+          {
+            "sustancia": "CANDESARTAN",
+            "volumen_total": 120689309.0,
+            "impacto_total": 2586036.9206566545,
+            "num_ordenes": 67
+          },
+          {
+            "sustancia": "LANSOPRAZOL",
+            "volumen_total": 101432340.2,
+            "impacto_total": 3350779.2912204415,
+            "num_ordenes": 120
+          },
+          {
+            "sustancia": "ROSUVASTATINA",
+            "volumen_total": 81923561.0,
+            "impacto_total": 1000011.7354688516,
+            "num_ordenes": 76
+          },
+          {
+            "sustancia": "FLECAINIDA",
+            "volumen_total": 59386440.55,
+            "impacto_total": 1983387.3048578035,
+            "num_ordenes": 40
+          }
+        ],
+        "top_sustancias_por_shap": [
+          {
+            "sustancia": "OMEPRAZOL",
+            "volumen_total": 497241247.9325,
+            "impacto_total": 17702166.638704766,
+            "num_ordenes": 239
+          },
+          {
+            "sustancia": "LANSOPRAZOL",
+            "volumen_total": 101432340.2,
+            "impacto_total": 3350779.2912204415,
+            "num_ordenes": 120
+          },
+          {
+            "sustancia": "VITAMINAS Y MINERALES",
+            "volumen_total": 51265048.5,
+            "impacto_total": 3163347.7731766845,
+            "num_ordenes": 186
+          },
+          {
+            "sustancia": "CANDESARTAN",
+            "volumen_total": 120689309.0,
+            "impacto_total": 2586036.9206566545,
+            "num_ordenes": 67
+          },
+          {
+            "sustancia": "ATORVASTATINA",
+            "volumen_total": 50097417.0,
+            "impacto_total": 2412721.7955030384,
+            "num_ordenes": 57
+          }
+        ],
+        "top_lineas_por_volumen": [
+          {
+            "linea": "MC22",
+            "volumen_total": 214821517.0,
+            "impacto_total": 7437475.952234567,
+            "num_ordenes": 19
+          },
+          {
+            "linea": "CO-06",
+            "volumen_total": 160569245.0,
+            "impacto_total": 5130748.28073797,
+            "num_ordenes": 41
+          },
+          {
+            "linea": "NA",
+            "volumen_total": 118368230.36,
+            "impacto_total": 7075552.675660293,
+            "num_ordenes": 213
+          },
+          {
+            "linea": "G3-03",
+            "volumen_total": 90702956.0,
+            "impacto_total": 3208763.5909829903,
+            "num_ordenes": 7
+          },
+          {
+            "linea": "G3-04",
+            "volumen_total": 81977566.0,
+            "impacto_total": 2772027.5053405985,
+            "num_ordenes": 22
+          }
+        ],
+        "top_lineas_por_shap": [
+          {
+            "linea": "MC22",
+            "volumen_total": 214821517.0,
+            "impacto_total": 7437475.952234567,
+            "num_ordenes": 19
+          },
+          {
+            "linea": "NA",
+            "volumen_total": 118368230.36,
+            "impacto_total": 7075552.675660293,
+            "num_ordenes": 213
+          },
+          {
+            "linea": "BOT-5",
+            "volumen_total": 926743.0,
+            "impacto_total": 5786061.906508514,
+            "num_ordenes": 101
+          },
+          {
+            "linea": "CO-06",
+            "volumen_total": 160569245.0,
+            "impacto_total": 5130748.28073797,
+            "num_ordenes": 41
+          },
+          {
+            "linea": "CO-05",
+            "volumen_total": 60792877.0,
+            "impacto_total": 3696442.971465459,
+            "num_ordenes": 50
+          }
+        ]
+      },
+      "2024-05": {
+        "volumen_total": 1216281603.2649999,
+        "top_sustancias_por_volumen": [
+          {
+            "sustancia": "OMEPRAZOL",
+            "volumen_total": 406482219.775,
+            "impacto_total": 14318123.963311452,
+            "num_ordenes": 194
+          },
+          {
+            "sustancia": "LANSOPRAZOL",
+            "volumen_total": 119080020.05,
+            "impacto_total": 3753746.9377259566,
+            "num_ordenes": 130
+          },
+          {
+            "sustancia": "CANDESARTAN",
+            "volumen_total": 107641115.0,
+            "impacto_total": 1498778.0738450745,
+            "num_ordenes": 58
+          },
+          {
+            "sustancia": "ATORVASTATINA",
+            "volumen_total": 94794934.0,
+            "impacto_total": 3490062.226967453,
+            "num_ordenes": 49
+          },
+          {
+            "sustancia": "ROSUVASTATINA",
+            "volumen_total": 75190747.0,
+            "impacto_total": 854007.2107707938,
+            "num_ordenes": 44
+          }
+        ],
+        "top_sustancias_por_shap": [
+          {
+            "sustancia": "OMEPRAZOL",
+            "volumen_total": 406482219.775,
+            "impacto_total": 14318123.963311452,
+            "num_ordenes": 194
+          },
+          {
+            "sustancia": "LANSOPRAZOL",
+            "volumen_total": 119080020.05,
+            "impacto_total": 3753746.9377259566,
+            "num_ordenes": 130
+          },
+          {
+            "sustancia": "VITAMINAS Y MINERALES",
+            "volumen_total": 61715103.0,
+            "impacto_total": 3597752.3536688923,
+            "num_ordenes": 219
+          },
+          {
+            "sustancia": "ATORVASTATINA",
+            "volumen_total": 94794934.0,
+            "impacto_total": 3490062.226967453,
+            "num_ordenes": 49
+          },
+          {
+            "sustancia": "FLECAINIDA",
+            "volumen_total": 64341618.5,
+            "impacto_total": 3253243.9414775977,
+            "num_ordenes": 53
+          }
+        ],
+        "top_lineas_por_volumen": [
+          {
+            "linea": "NA",
+            "volumen_total": 218207885.96,
+            "impacto_total": 5893994.338885334,
+            "num_ordenes": 173
+          },
+          {
+            "linea": "MC22",
+            "volumen_total": 144219681.0,
+            "impacto_total": 4988603.524999489,
+            "num_ordenes": 13
+          },
+          {
+            "linea": "CO-09",
+            "volumen_total": 89624606.0,
+            "impacto_total": 2764761.22321172,
+            "num_ordenes": 34
+          },
+          {
+            "linea": "G3-05",
+            "volumen_total": 81045054.0,
+            "impacto_total": 2725105.8090228005,
+            "num_ordenes": 10
+          },
+          {
+            "linea": "G3-03",
+            "volumen_total": 78745079.0,
+            "impacto_total": 2795286.012011498,
+            "num_ordenes": 6
+          }
+        ],
+        "top_lineas_por_shap": [
+          {
+            "linea": "NA",
+            "volumen_total": 218207885.96,
+            "impacto_total": 5893994.338885334,
+            "num_ordenes": 173
+          },
+          {
+            "linea": "MC22",
+            "volumen_total": 144219681.0,
+            "impacto_total": 4988603.524999489,
+            "num_ordenes": 13
+          },
+          {
+            "linea": "CO-05",
+            "volumen_total": 45289085.0,
+            "impacto_total": 3628998.431498443,
+            "num_ordenes": 56
+          },
+          {
+            "linea": "BOT-5",
+            "volumen_total": 1135094.0,
+            "impacto_total": 2914483.3434010586,
+            "num_ordenes": 49
+          },
+          {
+            "linea": "DEG02",
+            "volumen_total": 59927.0,
+            "impacto_total": 2828595.514574019,
+            "num_ordenes": 49
+          }
+        ]
+      },
+      "2024-06": {
+        "volumen_total": 1049904108.8299999,
+        "top_sustancias_por_volumen": [
+          {
+            "sustancia": "OMEPRAZOL",
+            "volumen_total": 387701545.59,
+            "impacto_total": 13232541.553164482,
+            "num_ordenes": 211
+          },
+          {
+            "sustancia": "LANSOPRAZOL",
+            "volumen_total": 102269053.5,
+            "impacto_total": 3348463.2381096156,
+            "num_ordenes": 126
+          },
+          {
+            "sustancia": "ATORVASTATINA",
+            "volumen_total": 100382572.0,
+            "impacto_total": 3412723.91030907,
+            "num_ordenes": 50
+          },
+          {
+            "sustancia": "FLECAINIDA",
+            "volumen_total": 60942547.75,
+            "impacto_total": 2265575.718102,
+            "num_ordenes": 50
+          },
+          {
+            "sustancia": "VITAMINAS Y MINERALES",
+            "volumen_total": 55344509.7,
+            "impacto_total": 3587507.8286452065,
+            "num_ordenes": 239
+          }
+        ],
+        "top_sustancias_por_shap": [
+          {
+            "sustancia": "OMEPRAZOL",
+            "volumen_total": 387701545.59,
+            "impacto_total": 13232541.553164482,
+            "num_ordenes": 211
+          },
+          {
+            "sustancia": "VITAMINAS Y MINERALES",
+            "volumen_total": 55344509.7,
+            "impacto_total": 3587507.8286452065,
+            "num_ordenes": 239
+          },
+          {
+            "sustancia": "ATORVASTATINA",
+            "volumen_total": 100382572.0,
+            "impacto_total": 3412723.91030907,
+            "num_ordenes": 50
+          },
+          {
+            "sustancia": "LANSOPRAZOL",
+            "volumen_total": 102269053.5,
+            "impacto_total": 3348463.2381096156,
+            "num_ordenes": 126
+          },
+          {
+            "sustancia": "FLECAINIDA",
+            "volumen_total": 60942547.75,
+            "impacto_total": 2265575.718102,
+            "num_ordenes": 50
+          }
+        ],
+        "top_lineas_por_volumen": [
+          {
+            "linea": "MC22",
+            "volumen_total": 121510191.0,
+            "impacto_total": 4222067.90878632,
+            "num_ordenes": 11
+          },
+          {
+            "linea": "NA",
+            "volumen_total": 114919481.78,
+            "impacto_total": 3877951.693919586,
+            "num_ordenes": 125
+          },
+          {
+            "linea": "CO-09",
+            "volumen_total": 107029060.0,
+            "impacto_total": 3139587.8923757356,
+            "num_ordenes": 47
+          },
+          {
+            "linea": "G3-03",
+            "volumen_total": 90894966.0,
+            "impacto_total": 3241074.500875597,
+            "num_ordenes": 7
+          },
+          {
+            "linea": "G3-04",
+            "volumen_total": 76664105.0,
+            "impacto_total": 2805386.730273165,
+            "num_ordenes": 22
+          }
+        ],
+        "top_lineas_por_shap": [
+          {
+            "linea": "MC22",
+            "volumen_total": 121510191.0,
+            "impacto_total": 4222067.90878632,
+            "num_ordenes": 11
+          },
+          {
+            "linea": "NA",
+            "volumen_total": 114919481.78,
+            "impacto_total": 3877951.693919586,
+            "num_ordenes": 125
+          },
+          {
+            "linea": "G3-03",
+            "volumen_total": 90894966.0,
+            "impacto_total": 3241074.500875597,
+            "num_ordenes": 7
+          },
+          {
+            "linea": "BOT-5",
+            "volumen_total": 1716621.0,
+            "impacto_total": 3177278.819865995,
+            "num_ordenes": 56
+          },
+          {
+            "linea": "CO-09",
+            "volumen_total": 107029060.0,
+            "impacto_total": 3139587.8923757356,
+            "num_ordenes": 47
+          }
+        ]
+      },
+      "2024-07": {
+        "volumen_total": 1086210175.507,
+        "top_sustancias_por_volumen": [
+          {
+            "sustancia": "OMEPRAZOL",
+            "volumen_total": 383622219.895,
+            "impacto_total": 13473692.913758747,
+            "num_ordenes": 202
+          },
+          {
+            "sustancia": "CANDESARTAN",
+            "volumen_total": 94140095.0,
+            "impacto_total": 1569802.3331042782,
+            "num_ordenes": 63
+          },
+          {
+            "sustancia": "ATORVASTATINA",
+            "volumen_total": 91605058.0,
+            "impacto_total": 3698661.6854919954,
+            "num_ordenes": 66
+          },
+          {
+            "sustancia": "LANSOPRAZOL",
+            "volumen_total": 89501906.4,
+            "impacto_total": 3124020.0933175236,
+            "num_ordenes": 125
+          },
+          {
+            "sustancia": "FLECAINIDA",
+            "volumen_total": 77980792.0,
+            "impacto_total": 2670409.6394948303,
+            "num_ordenes": 65
+          }
+        ],
+        "top_sustancias_por_shap": [
+          {
+            "sustancia": "OMEPRAZOL",
+            "volumen_total": 383622219.895,
+            "impacto_total": 13473692.913758747,
+            "num_ordenes": 202
+          },
+          {
+            "sustancia": "ATORVASTATINA",
+            "volumen_total": 91605058.0,
+            "impacto_total": 3698661.6854919954,
+            "num_ordenes": 66
+          },
+          {
+            "sustancia": "LANSOPRAZOL",
+            "volumen_total": 89501906.4,
+            "impacto_total": 3124020.0933175236,
+            "num_ordenes": 125
+          },
+          {
+            "sustancia": "VITAMINAS Y MINERALES",
+            "volumen_total": 45827624.0,
+            "impacto_total": 2694473.4805271034,
+            "num_ordenes": 150
+          },
+          {
+            "sustancia": "FLECAINIDA",
+            "volumen_total": 77980792.0,
+            "impacto_total": 2670409.6394948303,
+            "num_ordenes": 65
+          }
+        ],
+        "top_lineas_por_volumen": [
+          {
+            "linea": "MC22",
+            "volumen_total": 157031110.0,
+            "impacto_total": 5575629.1748726275,
+            "num_ordenes": 16
+          },
+          {
+            "linea": "NA",
+            "volumen_total": 102986784.322,
+            "impacto_total": 7596438.500688032,
+            "num_ordenes": 208
+          },
+          {
+            "linea": "G3-03",
+            "volumen_total": 78154739.0,
+            "impacto_total": 2773032.4669642826,
+            "num_ordenes": 6
+          },
+          {
+            "linea": "CO-12",
+            "volumen_total": 71798379.0,
+            "impacto_total": 2285539.277294132,
+            "num_ordenes": 18
+          },
+          {
+            "linea": "G3-05",
+            "volumen_total": 69413676.0,
+            "impacto_total": 2163320.0176306022,
+            "num_ordenes": 11
+          }
+        ],
+        "top_lineas_por_shap": [
+          {
+            "linea": "NA",
+            "volumen_total": 102986784.322,
+            "impacto_total": 7596438.500688032,
+            "num_ordenes": 208
+          },
+          {
+            "linea": "MC22",
+            "volumen_total": 157031110.0,
+            "impacto_total": 5575629.1748726275,
+            "num_ordenes": 16
+          },
+          {
+            "linea": "BOT-5",
+            "volumen_total": 613902.0,
+            "impacto_total": 4577224.561432127,
+            "num_ordenes": 79
+          },
+          {
+            "linea": "BL-T",
+            "volumen_total": 1261391.0,
+            "impacto_total": 2847196.8938282225,
+            "num_ordenes": 70
+          },
+          {
+            "linea": "G3-03",
+            "volumen_total": 78154739.0,
+            "impacto_total": 2773032.4669642826,
+            "num_ordenes": 6
+          }
+        ]
+      },
+      "2024-08": {
+        "volumen_total": 1013285865.99,
+        "top_sustancias_por_volumen": [
+          {
+            "sustancia": "OMEPRAZOL",
+            "volumen_total": 357813762.72,
+            "impacto_total": 12803845.54978998,
+            "num_ordenes": 164
+          },
+          {
+            "sustancia": "LOSARTAN",
+            "volumen_total": 89928197.0,
+            "impacto_total": 1602294.2731895791,
+            "num_ordenes": 53
+          },
+          {
+            "sustancia": "LANSOPRAZOL",
+            "volumen_total": 81862755.05,
+            "impacto_total": 2860659.080102553,
+            "num_ordenes": 98
+          },
+          {
+            "sustancia": "ROSUVASTATINA",
+            "volumen_total": 70749190.0,
+            "impacto_total": 1611768.2730546885,
+            "num_ordenes": 71
+          },
+          {
+            "sustancia": "ATORVASTATINA",
+            "volumen_total": 64557105.0,
+            "impacto_total": 2001959.5897683217,
+            "num_ordenes": 49
+          }
+        ],
+        "top_sustancias_por_shap": [
+          {
+            "sustancia": "OMEPRAZOL",
+            "volumen_total": 357813762.72,
+            "impacto_total": 12803845.54978998,
+            "num_ordenes": 164
+          },
+          {
+            "sustancia": "LANSOPRAZOL",
+            "volumen_total": 81862755.05,
+            "impacto_total": 2860659.080102553,
+            "num_ordenes": 98
+          },
+          {
+            "sustancia": "SITAGLIPTINA + METFORMINA",
+            "volumen_total": 63751244.0,
+            "impacto_total": 2707882.2823880385,
+            "num_ordenes": 144
+          },
+          {
+            "sustancia": "VITAMINAS Y MINERALES",
+            "volumen_total": 38595874.0,
+            "impacto_total": 2495377.7383631817,
+            "num_ordenes": 161
+          },
+          {
+            "sustancia": "ATORVASTATINA",
+            "volumen_total": 64557105.0,
+            "impacto_total": 2001959.5897683217,
+            "num_ordenes": 49
+          }
+        ],
+        "top_lineas_por_volumen": [
+          {
+            "linea": "MC22",
+            "volumen_total": 152515513.0,
+            "impacto_total": 5364121.880226681,
+            "num_ordenes": 13
+          },
+          {
+            "linea": "CO-08",
+            "volumen_total": 111235580.0,
+            "impacto_total": 3481073.54344295,
+            "num_ordenes": 26
+          },
+          {
+            "linea": "NA",
+            "volumen_total": 85142768.22,
+            "impacto_total": 3746547.520719676,
+            "num_ordenes": 119
+          },
+          {
+            "linea": "G3-03",
+            "volumen_total": 78967789.0,
+            "impacto_total": 2807005.4462900413,
+            "num_ordenes": 6
+          },
+          {
+            "linea": "CO-10",
+            "volumen_total": 72194435.0,
+            "impacto_total": 3194811.3505563475,
+            "num_ordenes": 36
+          }
+        ],
+        "top_lineas_por_shap": [
+          {
+            "linea": "BOT-5",
+            "volumen_total": 647064.0,
+            "impacto_total": 5464630.106899757,
+            "num_ordenes": 93
+          },
+          {
+            "linea": "MC22",
+            "volumen_total": 152515513.0,
+            "impacto_total": 5364121.880226681,
+            "num_ordenes": 13
+          },
+          {
+            "linea": "NA",
+            "volumen_total": 85142768.22,
+            "impacto_total": 3746547.520719676,
+            "num_ordenes": 119
+          },
+          {
+            "linea": "BL-X",
+            "volumen_total": 1296932.0,
+            "impacto_total": 3501719.895791843,
+            "num_ordenes": 91
+          },
+          {
+            "linea": "CO-08",
+            "volumen_total": 111235580.0,
+            "impacto_total": 3481073.54344295,
+            "num_ordenes": 26
+          }
+        ]
+      },
+      "2024-09": {
+        "volumen_total": 1055767427.28,
+        "top_sustancias_por_volumen": [
+          {
+            "sustancia": "OMEPRAZOL",
+            "volumen_total": 368716660.58,
+            "impacto_total": 12574906.932987975,
+            "num_ordenes": 207
+          },
+          {
+            "sustancia": "ATORVASTATINA",
+            "volumen_total": 142296856.08,
+            "impacto_total": 5828254.998424122,
+            "num_ordenes": 67
+          },
+          {
+            "sustancia": "LANSOPRAZOL",
+            "volumen_total": 90008923.2,
+            "impacto_total": 2927347.1086018886,
+            "num_ordenes": 118
+          },
+          {
+            "sustancia": "CANDESARTAN",
+            "volumen_total": 69629568.0,
+            "impacto_total": 975668.8586145691,
+            "num_ordenes": 34
+          },
+          {
+            "sustancia": "SITAGLIPTINA + METFORMINA",
+            "volumen_total": 57876106.0,
+            "impacto_total": 2571724.3405935117,
+            "num_ordenes": 140
+          }
+        ],
+        "top_sustancias_por_shap": [
+          {
+            "sustancia": "OMEPRAZOL",
+            "volumen_total": 368716660.58,
+            "impacto_total": 12574906.932987975,
+            "num_ordenes": 207
+          },
+          {
+            "sustancia": "ATORVASTATINA",
+            "volumen_total": 142296856.08,
+            "impacto_total": 5828254.998424122,
+            "num_ordenes": 67
+          },
+          {
+            "sustancia": "VITAMINAS Y MINERALES",
+            "volumen_total": 52220929.9,
+            "impacto_total": 2953067.915879291,
+            "num_ordenes": 164
+          },
+          {
+            "sustancia": "LANSOPRAZOL",
+            "volumen_total": 90008923.2,
+            "impacto_total": 2927347.1086018886,
+            "num_ordenes": 118
+          },
+          {
+            "sustancia": "SITAGLIPTINA + METFORMINA",
+            "volumen_total": 57876106.0,
+            "impacto_total": 2571724.3405935117,
+            "num_ordenes": 140
+          }
+        ],
+        "top_lineas_por_volumen": [
+          {
+            "linea": "CO-12",
+            "volumen_total": 147498680.0,
+            "impacto_total": 4300186.480730322,
+            "num_ordenes": 24
+          },
+          {
+            "linea": "MC22",
+            "volumen_total": 141562491.0,
+            "impacto_total": 4928412.78669049,
+            "num_ordenes": 14
+          },
+          {
+            "linea": "NA",
+            "volumen_total": 113816940.0,
+            "impacto_total": 3291284.398892393,
+            "num_ordenes": 114
+          },
+          {
+            "linea": "CO-09",
+            "volumen_total": 78598028.0,
+            "impacto_total": 2163710.50305456,
+            "num_ordenes": 33
+          },
+          {
+            "linea": "G3-05",
+            "volumen_total": 73959304.0,
+            "impacto_total": 2300175.209521791,
+            "num_ordenes": 10
+          }
+        ],
+        "top_lineas_por_shap": [
+          {
+            "linea": "MC22",
+            "volumen_total": 141562491.0,
+            "impacto_total": 4928412.78669049,
+            "num_ordenes": 14
+          },
+          {
+            "linea": "BOT-5",
+            "volumen_total": 1092024.0,
+            "impacto_total": 4649194.44241283,
+            "num_ordenes": 80
+          },
+          {
+            "linea": "CO-12",
+            "volumen_total": 147498680.0,
+            "impacto_total": 4300186.480730322,
+            "num_ordenes": 24
+          },
+          {
+            "linea": "NA",
+            "volumen_total": 113816940.0,
+            "impacto_total": 3291284.398892393,
+            "num_ordenes": 114
+          },
+          {
+            "linea": "BL-T",
+            "volumen_total": 1102092.0,
+            "impacto_total": 3219708.093907079,
+            "num_ordenes": 79
+          }
+        ]
+      },
+      "2024-10": {
+        "volumen_total": 1217840563.9825,
+        "top_sustancias_por_volumen": [
+          {
+            "sustancia": "OMEPRAZOL",
+            "volumen_total": 473082200.8025,
+            "impacto_total": 16352110.75826938,
+            "num_ordenes": 259
+          },
+          {
+            "sustancia": "LOSARTAN",
+            "volumen_total": 97712751.0,
+            "impacto_total": 2862821.3474547295,
+            "num_ordenes": 87
+          },
+          {
+            "sustancia": "LANSOPRAZOL",
+            "volumen_total": 88802635.0,
+            "impacto_total": 2855698.5152700865,
+            "num_ordenes": 103
+          },
+          {
+            "sustancia": "ATORVASTATINA",
+            "volumen_total": 85426508.0,
+            "impacto_total": 3681484.1637058845,
+            "num_ordenes": 83
+          },
+          {
+            "sustancia": "CANDESARTAN",
+            "volumen_total": 62374349.0,
+            "impacto_total": 1101016.2637362701,
+            "num_ordenes": 39
+          }
+        ],
+        "top_sustancias_por_shap": [
+          {
+            "sustancia": "OMEPRAZOL",
+            "volumen_total": 473082200.8025,
+            "impacto_total": 16352110.75826938,
+            "num_ordenes": 259
+          },
+          {
+            "sustancia": "ATORVASTATINA",
+            "volumen_total": 85426508.0,
+            "impacto_total": 3681484.1637058845,
+            "num_ordenes": 83
+          },
+          {
+            "sustancia": "VITAMINAS Y MINERALES",
+            "volumen_total": 52147553.0,
+            "impacto_total": 3206496.979453171,
+            "num_ordenes": 209
+          },
+          {
+            "sustancia": "LOSARTAN",
+            "volumen_total": 97712751.0,
+            "impacto_total": 2862821.3474547295,
+            "num_ordenes": 87
+          },
+          {
+            "sustancia": "LANSOPRAZOL",
+            "volumen_total": 88802635.0,
+            "impacto_total": 2855698.5152700865,
+            "num_ordenes": 103
+          }
+        ],
+        "top_lineas_por_volumen": [
+          {
+            "linea": "MC22",
+            "volumen_total": 155747090.0,
+            "impacto_total": 5422048.093771792,
+            "num_ordenes": 13
+          },
+          {
+            "linea": "NA",
+            "volumen_total": 123508248.35,
+            "impacto_total": 4663051.056153472,
+            "num_ordenes": 157
+          },
+          {
+            "linea": "CO-12",
+            "volumen_total": 102189118.0,
+            "impacto_total": 3762439.2923923684,
+            "num_ordenes": 31
+          },
+          {
+            "linea": "CO-08",
+            "volumen_total": 100698503.0,
+            "impacto_total": 3009030.539505482,
+            "num_ordenes": 30
+          },
+          {
+            "linea": "G3-05",
+            "volumen_total": 96324210.0,
+            "impacto_total": 3432134.5183018693,
+            "num_ordenes": 10
+          }
+        ],
+        "top_lineas_por_shap": [
+          {
+            "linea": "MC22",
+            "volumen_total": 155747090.0,
+            "impacto_total": 5422048.093771792,
+            "num_ordenes": 13
+          },
+          {
+            "linea": "NA",
+            "volumen_total": 123508248.35,
+            "impacto_total": 4663051.056153472,
+            "num_ordenes": 157
+          },
+          {
+            "linea": "BOT-5",
+            "volumen_total": 1814677.0,
+            "impacto_total": 3870387.3603523867,
+            "num_ordenes": 68
+          },
+          {
+            "linea": "CO-12",
+            "volumen_total": 102189118.0,
+            "impacto_total": 3762439.2923923684,
+            "num_ordenes": 31
+          },
+          {
+            "linea": "G3-05",
+            "volumen_total": 96324210.0,
+            "impacto_total": 3432134.5183018693,
+            "num_ordenes": 10
+          }
+        ]
+      },
+      "2024-11": {
+        "volumen_total": 1186678986.02,
+        "top_sustancias_por_volumen": [
+          {
+            "sustancia": "OMEPRAZOL",
+            "volumen_total": 497951380.66,
+            "impacto_total": 16478390.670798259,
+            "num_ordenes": 257
+          },
+          {
+            "sustancia": "LANSOPRAZOL",
+            "volumen_total": 83597958.05,
+            "impacto_total": 2667043.5830418966,
+            "num_ordenes": 98
+          },
+          {
+            "sustancia": "ATORVASTATINA",
+            "volumen_total": 68336789.5,
+            "impacto_total": 2660737.519996754,
+            "num_ordenes": 50
+          },
+          {
+            "sustancia": "ROSUVASTATINA",
+            "volumen_total": 67836308.0,
+            "impacto_total": 610106.5230495147,
+            "num_ordenes": 41
+          },
+          {
+            "sustancia": "CANDESARTAN",
+            "volumen_total": 65797049.0,
+            "impacto_total": 865370.5148732509,
+            "num_ordenes": 41
+          }
+        ],
+        "top_sustancias_por_shap": [
+          {
+            "sustancia": "OMEPRAZOL",
+            "volumen_total": 497951380.66,
+            "impacto_total": 16478390.670798259,
+            "num_ordenes": 257
+          },
+          {
+            "sustancia": "VITAMINAS Y MINERALES",
+            "volumen_total": 61120676.0,
+            "impacto_total": 3582951.9239849835,
+            "num_ordenes": 203
+          },
+          {
+            "sustancia": "FLECAINIDA",
+            "volumen_total": 52114917.25,
+            "impacto_total": 2839169.9163778983,
+            "num_ordenes": 45
+          },
+          {
+            "sustancia": "LANSOPRAZOL",
+            "volumen_total": 83597958.05,
+            "impacto_total": 2667043.5830418966,
+            "num_ordenes": 98
+          },
+          {
+            "sustancia": "ATORVASTATINA",
+            "volumen_total": 68336789.5,
+            "impacto_total": 2660737.519996754,
+            "num_ordenes": 50
+          }
+        ],
+        "top_lineas_por_volumen": [
+          {
+            "linea": "MC22",
+            "volumen_total": 170433774.0,
+            "impacto_total": 5876913.797139232,
+            "num_ordenes": 15
+          },
+          {
+            "linea": "CO-12",
+            "volumen_total": 117078854.0,
+            "impacto_total": 4039373.4971821047,
+            "num_ordenes": 33
+          },
+          {
+            "linea": "NA",
+            "volumen_total": 115713289.5,
+            "impacto_total": 5532828.330873928,
+            "num_ordenes": 178
+          },
+          {
+            "linea": "G3-03",
+            "volumen_total": 76601932.0,
+            "impacto_total": 2783927.456826035,
+            "num_ordenes": 6
+          },
+          {
+            "linea": "CO-11",
+            "volumen_total": 74001000.0,
+            "impacto_total": 3351813.362306638,
+            "num_ordenes": 45
+          }
+        ],
+        "top_lineas_por_shap": [
+          {
+            "linea": "MC22",
+            "volumen_total": 170433774.0,
+            "impacto_total": 5876913.797139232,
+            "num_ordenes": 15
+          },
+          {
+            "linea": "NA",
+            "volumen_total": 115713289.5,
+            "impacto_total": 5532828.330873928,
+            "num_ordenes": 178
+          },
+          {
+            "linea": "BOT-5",
+            "volumen_total": 752227.0,
+            "impacto_total": 4726197.125432204,
+            "num_ordenes": 82
+          },
+          {
+            "linea": "CO-12",
+            "volumen_total": 117078854.0,
+            "impacto_total": 4039373.4971821047,
+            "num_ordenes": 33
+          },
+          {
+            "linea": "CO-11",
+            "volumen_total": 74001000.0,
+            "impacto_total": 3351813.362306638,
+            "num_ordenes": 45
+          }
+        ]
+      },
+      "2024-12": {
+        "volumen_total": 981891663.8675,
+        "top_sustancias_por_volumen": [
+          {
+            "sustancia": "OMEPRAZOL",
+            "volumen_total": 324346833.8475,
+            "impacto_total": 12086402.75721666,
+            "num_ordenes": 208
+          },
+          {
+            "sustancia": "ATORVASTATINA",
+            "volumen_total": 148667584.0,
+            "impacto_total": 4859417.874017155,
+            "num_ordenes": 40
+          },
+          {
+            "sustancia": "LOSARTAN",
+            "volumen_total": 138004324.0,
+            "impacto_total": 2813966.9280484775,
+            "num_ordenes": 96
+          },
+          {
+            "sustancia": "LANSOPRAZOL",
+            "volumen_total": 53119585.3,
+            "impacto_total": 1715263.9986022827,
+            "num_ordenes": 69
+          },
+          {
+            "sustancia": "ROSUVASTATINA",
+            "volumen_total": 50738654.0,
+            "impacto_total": 618361.2146779156,
+            "num_ordenes": 23
+          }
+        ],
+        "top_sustancias_por_shap": [
+          {
+            "sustancia": "OMEPRAZOL",
+            "volumen_total": 324346833.8475,
+            "impacto_total": 12086402.75721666,
+            "num_ordenes": 208
+          },
+          {
+            "sustancia": "ATORVASTATINA",
+            "volumen_total": 148667584.0,
+            "impacto_total": 4859417.874017155,
+            "num_ordenes": 40
+          },
+          {
+            "sustancia": "LOSARTAN",
+            "volumen_total": 138004324.0,
+            "impacto_total": 2813966.9280484775,
+            "num_ordenes": 96
+          },
+          {
+            "sustancia": "VITAMINAS Y MINERALES",
+            "volumen_total": 43807809.0,
+            "impacto_total": 2456144.388873436,
+            "num_ordenes": 139
+          },
+          {
+            "sustancia": "LANSOPRAZOL",
+            "volumen_total": 53119585.3,
+            "impacto_total": 1715263.9986022827,
+            "num_ordenes": 69
+          }
+        ],
+        "top_lineas_por_volumen": [
+          {
+            "linea": "CO-12",
+            "volumen_total": 195972528.0,
+            "impacto_total": 5877220.168980695,
+            "num_ordenes": 37
+          },
+          {
+            "linea": "MC22",
+            "volumen_total": 90561790.0,
+            "impacto_total": 3165300.1844038223,
+            "num_ordenes": 7
+          },
+          {
+            "linea": "NA",
+            "volumen_total": 83604951.62,
+            "impacto_total": 3627755.940231048,
+            "num_ordenes": 125
+          },
+          {
+            "linea": "CO-11",
+            "volumen_total": 83407450.0,
+            "impacto_total": 3452431.3727569524,
+            "num_ordenes": 39
+          },
+          {
+            "linea": "G3-03",
+            "volumen_total": 45958192.0,
+            "impacto_total": 1620174.2778344606,
+            "num_ordenes": 4
+          }
+        ],
+        "top_lineas_por_shap": [
+          {
+            "linea": "CO-12",
+            "volumen_total": 195972528.0,
+            "impacto_total": 5877220.168980695,
+            "num_ordenes": 37
+          },
+          {
+            "linea": "BOT-5",
+            "volumen_total": 1218163.0,
+            "impacto_total": 4896025.055558877,
+            "num_ordenes": 84
+          },
+          {
+            "linea": "NA",
+            "volumen_total": 83604951.62,
+            "impacto_total": 3627755.940231048,
+            "num_ordenes": 125
+          },
+          {
+            "linea": "CO-11",
+            "volumen_total": 83407450.0,
+            "impacto_total": 3452431.3727569524,
+            "num_ordenes": 39
+          },
+          {
+            "linea": "MC22",
+            "volumen_total": 90561790.0,
+            "impacto_total": 3165300.1844038223,
+            "num_ordenes": 7
+          }
+        ]
+      }
+    },
+    "modelo_info": {
+      "r2": 0.854,
+      "version": "full",
+      "features": 27
+    }
+  }
+}
