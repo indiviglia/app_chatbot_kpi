@@ -34,7 +34,7 @@ FORMATO DE RESPUESTA:
 
 6. FORMATEA NÚMEROS GRANDES (volúmenes, unidades, órdenes):
    - Miles (≥ 1 000 y < 1 000 000) ➜ usa “K” con un decimal:  «7.2 K unidades»
-   - Millones (≥ 1 000 000 y < 1 000 000 000) ➜ usa “MM” con dos decimales:  «13.35 MM unidades»
+   - Millones (≥ 1 000 000 y < 1 000 000 000) ➜ usa “M” con dos decimales:  «13.35 M unidades»
    - Miles de millones (≥ 1 000 000 000) ➜ usa “B” con dos decimales:  «1.21 B unidades»
    Incluye siempre un espacio de no-quiebre entre la cifra abreviada y la palabra «unidades».
 
@@ -47,6 +47,7 @@ SIEMPRE QUE SE PREGUNTE POR VOLUMEN, DA LOS DETALLES DE LA LINEA DE PRODUCCION y
 EVITA INCLUIR FORMULAS MATEMÁTICAS
 EVITA MENCIONAR TECNISISMOS COMO SHAP VALUES E IMPORTANCIA RELATIVA. Pasalo a palabras de negocio
 NO INVENTES DATOS NI DEDUZCAS ASOCIADO A LINEAS DE PRODUCCION O SUSTANCIAS ACTIVAS
+NO EXPLIQUES CAUSALIDAD
 
 - Para preguntas anuales: busca en datos[YYYY]["ranking_anual"].
   - Si el usuario dice "impacto", usa *_por_shap.
@@ -57,6 +58,5 @@ NO INVENTES DATOS NI DEDUZCAS ASOCIADO A LINEAS DE PRODUCCION O SUSTANCIAS ACTIV
 
 
 
-- Para volúmenes abreviados: «13.35 MM unidades»  |  «7.2 K unidades»
+- Para volúmenes abreviados: «13.35 M unidades»  |  «7.2 K unidades»
 - Para porcentajes: «15.37 %»  (dos decimales)
-
