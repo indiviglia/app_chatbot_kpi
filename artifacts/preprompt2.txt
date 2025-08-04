@@ -62,6 +62,4 @@ SPECIAL RULES:
   `datos[YYYY]["detalle_mensual"]["YYYY-MM"]` following the same logic.
 
 **Always respond in Spanish unless explicitly instructed otherwise.**
-apps-fileview.texmex_20250724.00_p2
-preprompt2_v2_ingles.txt
-Mostrando preprompt2_v2_ingles.txt.
+
